@@ -8,7 +8,7 @@ I've been working in Android for more than 3+ Years and currently working In Pyt
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [darshan.chauhan21198@gmail.com](mailto:darshan.chauhan21198@gmail.com)
-* 🧠  I'm learning React JS & Node JS
+* 🧠  I'm teaching React JS & Node JS
 * 🤝  I'm open to collaborating on Android & Data Science based Projects
 
 ### Skills
