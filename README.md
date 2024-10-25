@@ -1,10 +1,10 @@
 Hi 👋 My name is Darshan Chauhan
 ================================
 
-Android Developer | WordPress | Python | ML
+Software Developer | Python | ML
 -------------------------------------------
 
-I've been working in Android for more than 3+ Years and currently working In Python with Data Science Using Machine Learning.
+I've been working in Web development,AI/ML for more than 4+ Years and currently working In Python with Data Science Using Machine Learning.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [darshan.chauhan21198@gmail.com](mailto:darshan.chauhan21198@gmail.com)
