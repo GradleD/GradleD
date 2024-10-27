@@ -9,7 +9,7 @@ I've been working in Web development,AI/ML for more than 4+ Years and currently 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [darshan.chauhan21198@gmail.com](mailto:darshan.chauhan21198@gmail.com)
 * 🧠  I'm teaching React JS & Node JS
-* 🤝  I'm open to collaborating on Android & Data Science based Projects
+* 🤝  I'm open to collaborating on Web, Android & Data Science based Projects
 
 ### Skills
 
