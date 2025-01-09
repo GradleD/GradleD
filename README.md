@@ -4,7 +4,7 @@ Hi 👋 My name is Darshan Chauhan
 Software Developer | Python | ML
 -------------------------------------------
 
-I've been working in Web development,AI/ML for more than 4+ Years and currently working In Python with Data Science Using Machine Learning.
+I've been working in Web development & AI/ML with more than 5+ Years of experience.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [darshan.chauhan21198@gmail.com](mailto:darshan.chauhan21198@gmail.com)
